@@ -1,0 +1,49 @@
+
+.container{
+	width: 800px;
+	margin:0 auto;
+	border-radius: 5px;
+	border: 2px solid #CCC;
+	font-family: Helvetica,Tahoma,Lucida ,Console;
+	box-shadow: 4px 4px 0px 0px #CCC;
+}
+
+
+
+.container header h3 {
+	padding: 10px;
+	margin-left: 8px;
+	text-align: center;
+}
+.container header img {
+	border: 4px solid #ccc;
+	width: 308px;
+	height: 300px;
+	display: block;
+	margin: 0 auto;
+	border-radius: 4px;
+	box-shadow: 4px 4px 4px 0px #CCC;
+  
+}
+.container .section {
+	
+	border-radius: 5px;
+	border: 2px solid #CCC; 
+	margin:8px 8px 8px;
+}
+.container .section p{
+	padding: 10px;
+	line-height: 1.4;
+	 
+}
+.container .section p:first-child{
+	font-style: italic;
+}
+.container .section ul{
+	list-style: none;
+	padding-left: 8px;
+
+}
+.container .section ul li span{
+	font-weight: bold;
+}
